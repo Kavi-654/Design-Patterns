@@ -1,0 +1,4 @@
+
+public interface AiModel {
+    String generateResponse(String prompt);
+}
